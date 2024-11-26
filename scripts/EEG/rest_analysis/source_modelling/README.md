@@ -4,7 +4,6 @@
 MATLAB analysis scripts
 
 * 'data' - folder with intermediate data:
-  * `sa_eLoreta.mat` - eLORETA inverse operator which is computed in the `prepare_eLORETA_inverse_operator.m` script
   * `S*_DFA_power_slope.mat` - values of alpha power, DFA and 1/f slope for each subject
   * `results_DFA_power_slope.mat` - combined results (power, DFA, and slope) for all subjects
   * `results_ga_DFA_power_slope.mat` - grand-average results (power, DFA, and slope)
