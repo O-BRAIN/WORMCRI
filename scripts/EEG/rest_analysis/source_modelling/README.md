@@ -3,22 +3,21 @@
 ## Folder Structure
 MATLAB analysis scripts
 
+* 'data' - folder with intermediate data:
   * `sa_eLoreta.mat` - eLORETA inverse operator which is computed in the `scripts_minimal/prepare_eLORETA_inverse_operator.m` script
   * `S*_DFA_power_slope.mat` - values of alpha power, DFA and 1/f slope for each subject
   * `results_DFA_power_slope.mat` - combined results (power, DFA, and slope) for all subjects
   * `results_ga_DFA_power_slope.mat` - grand-average results (power, DFA, and slope)
-  * `source_dfa_slope.csv` - DFA and slope values exported for analysis in R
-  * `results_matrix_DFA.csv` - results of statistical analysis for DFA
-  * `results_matrix_oneF.csv` - results of statistical analysis for 1/f slope
-  
-* `results_minimal` - folder with final results
+
+      
+* `results` - folder with final results
 
   * `significant_sources_*.png` - brain plots with significant sources highlighted in red (before/after FDR as specified in the file name)
   * `tvalue_update_*.png` - brain plots of update-ignore t-values 
   * `significant_sources_*.txt` - list of significant sources for each ROI of the Harvard-Oxford atlas
 
 
-* `toolboxes_minimal/haufe` - functions that are required for source space analysis (leadfield, eLORETA) and visualizations
+* `toolboxes/haufe` - functions that are required for source space analysis (leadfield, eLORETA) and visualizations
 
   * These scripts are also available [in my repository](https://github.com/ctrltz/bci-brain-connectivity/tree/master/toolboxes/haufe)
   
