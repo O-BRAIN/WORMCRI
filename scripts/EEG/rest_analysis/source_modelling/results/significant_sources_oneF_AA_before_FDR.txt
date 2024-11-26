@@ -1,0 +1,42 @@
+slope * AAratio * condition - significant sources before FDR correction:
+20	Left Precentral Gyrus
+17	Left Superior Frontal Gyrus
+12	Right Precentral Gyrus
+12	Right Postcentral Gyrus
+7	Right Middle Frontal Gyrus
+6	Left Postcentral Gyrus
+6	Right Supramarginal Gyrus, anterior division
+5	Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+4	Right Inferior Frontal Gyrus, pars opercularis
+4	Right Supramarginal Gyrus, posterior division
+4	Right Frontal Operculum Cortex
+3	Left Middle Frontal Gyrus
+3	Right Precuneous Cortex
+3	Right Parietal Operculum Cortex
+2	Left Subcallosal Cortex
+2	Left Precuneous Cortex
+2	Right Inferior Frontal Gyrus, pars triangularis
+2	Right Angular Gyrus
+2	Right Subcallosal Cortex
+2	Right Cingulate Gyrus, posterior division
+2	Right Frontal Orbital Cortex
+1	Left Cingulate Gyrus, anterior division
+1	Left Cingulate Gyrus, posterior division
+1	Left Frontal Orbital Cortex
+1	Left Parahippocampal Gyrus, anterior division
+1	Left Parietal Operculum Cortex
+1	Right Frontal Pole
+1	Right Superior Frontal Gyrus
+1	Right Inferior Temporal Gyrus, temporooccipital part
+1	Right Lateral Occipital Cortex, inferior division
+1	Right Intracalcarine Cortex
+1	Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+1	Right Cingulate Gyrus, anterior division
+1	Right Parahippocampal Gyrus, anterior division
+1	Right Parahippocampal Gyrus, posterior division
+1	Right Lingual Gyrus
+1	Right Temporal Fusiform Cortex, posterior division
+1	Right Temporal Occipital Fusiform Cortex
+1	Right Central Opercular Cortex
+1	Right Heschl's Gyrus (includes H1 and H2)
+

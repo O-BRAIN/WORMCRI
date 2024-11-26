@@ -1,0 +1,18 @@
+DFA * condition - significant sources before FDR correction:
+15	Right Superior Frontal Gyrus
+11	Right Middle Frontal Gyrus
+8	Right Supramarginal Gyrus, posterior division
+6	Right Precentral Gyrus
+5	Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+5	Right Planum Temporale
+4	Left Insular Cortex
+4	Right Postcentral Gyrus
+3	Left Superior Frontal Gyrus
+3	Right Paracingulate Gyrus
+3	Right Parietal Operculum Cortex
+2	Right Frontal Pole
+2	Right Supramarginal Gyrus, anterior division
+1	Left Frontal Orbital Cortex
+1	Left Frontal Operculum Cortex
+1	Right Superior Temporal Gyrus, posterior division
+
