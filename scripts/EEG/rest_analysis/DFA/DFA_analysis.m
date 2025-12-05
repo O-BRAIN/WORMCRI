@@ -25,7 +25,7 @@ fir_order = 2 / hp    	%   fir_order - Filterorder in seconds, usually good with
 
 
 %% read in subject list 
-datdir = '/data/p_02191/Admin/Nadine/rsEEG_Lieneke/data/data_clean/'
+datdir = '/path/to/where/clean/data/is/'
 cd(datdir)
 sublist = dir();
 sublist = sublist(~[sublist(:).isdir] & contains({sublist.name}, '.set'));%select only files with .set ending and non directories
@@ -100,4 +100,5 @@ figure
     colorbar('fontsize',18);
      % caxis([-0.01 0.07])
   caxis([min(meanDiff(:)), max(meanDiff(:))])
+
 
