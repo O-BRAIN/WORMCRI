@@ -57,6 +57,6 @@ for file_name in dirlist:
 df2 = pd.DataFrame(all_subject_data)  # Only electrode names as columns for now
 elec_list = ["oneF" + elec for elec in elec_list]
 df2.columns = ['ID'] + elec_list      
-df2.to_excel('/data/p_02191/Admin/Nadine/propofol/Sedation-RestingState/OneOverF_per_sub_per_elec.xlsx',index = False)
+df2.to_excel('/path/to/where/excel/should/be/saved.xlsx',index = False)
 
 
