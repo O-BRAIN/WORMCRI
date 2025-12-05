@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 
-root = "/data/p_02191/Admin/Nadine/propofol/Sedation-RestingState/"
+root = "path/to/where/data/is"
 dirlist = [f for f in os.listdir(root) if f.endswith('.set')]
 dirlist[1]
 
